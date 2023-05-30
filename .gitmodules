@@ -2,3 +2,7 @@
 	path = bmya/odoo-bmya
 	url = git@github.com:bmya/odoo-bmya.git
 	branch = 16.0
+[submodule "bmya/webpay/payment_webpay.git"]
+	path = bmya/webpay/payment_webpay.git
+	url = https://gitlab.com/dansanti/payment_webpay.git
+	branch = 15.0
